@@ -56,3 +56,5 @@ namespace Exo.WebApi.Repositories
         }
     }
 }
+
+//eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImVtYWlsQHNwLmJyIiwianRpIjoiMSIsImV4cCI6MTc1NzcyNzQ0MiwiaXNzIjoiZXhvYXBpLndlYmFwaSIsImF1ZCI6ImV4b2FwaS53ZWJhcGkifQ.7E_Ud9nK_yqWJsjpDcnD_p1tR6ESGCeibvwRDDSpkAc
